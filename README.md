@@ -9,7 +9,7 @@ I'm Marcos, a 🇧🇷 brazilian junior developer looking for new experiencies.
 
 - 😄 Pronouns: He/Him/They.
 - 🏛 My degrees:
-  - Finished: I.T. techinician 👨‍💻 from Instituto Federal da Bahia;
+  - Finished: Certification in I.T. 👨‍💻 from Instituto Federal da Bahia;
   - Ongoing: Biology 🐛 major on Universidade Federal de Sergipe. 
 - 💡 Carrer Interests:
   - 🌐 Backend developing;
