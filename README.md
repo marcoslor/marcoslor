@@ -18,9 +18,13 @@ I'm Marcos, a 🇧🇷 brazilian junior developer looking for new experiencies.
 - 🍄  Hobbies:
   - 🏕  Hicking;
   - 🍃  Nature observer.
-- Work experiences:
-  -   Fullstack internship (8 months);
-  -   Adminstrative assistant @ Yamana Inc.
+- 🧑‍💻 Work experiences:
+  -   Fullstack developer internship (8 months);
+      -   🏢 Where? A local company.
+      -   ℹ️ Job description: Designing simple landing webpages for the company's education project.
+      -   🧳 Acquired stack: PHP developing with Laravel. CSS. HTML.
+  -   Administrative trainee
+      -   🏢 Where? Yamana Inc.
 
 (For more info, feel free to visit my LinkedIn 😄)
  
