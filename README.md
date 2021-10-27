@@ -7,20 +7,20 @@ I'm Marcos, a 🇧🇷 brazilian junior developer looking for new experiencies.
 
 ## About me
 
-- 😄 Pronouns: He/Him/They.
-- 🏛 My degrees:
+- 😄  Pronouns: He/Him/They.
+- 🏛  My degrees:
   - Finished: Certification in I.T. 👨‍💻 from Instituto Federal da Bahia;
   - Ongoing: Biology 🐛 major on Universidade Federal de Sergipe. 
-- 💡 Carrer Interests:
-  - 🌐 Backend developing;
-  - 🔎 Data analysis;
-  - 🧬 Bioinformatics.
-- 🍄 Hobbies:
-  - 🏕 Hicking;
-  - 🍃 Nature observer.
+- 💡  Carrer Interests:
+  - 🌐  Backend developing;
+  - 🔎  Data analysis;
+  - 🧬  Bioinformatics.
+- 🍄  Hobbies:
+  - 🏕  Hicking;
+  - 🍃  Nature observer.
 - Work experiences:
-  - Fullstack internship (8 months);
-  - Adminstrative assistant @ Yamana Inc.
+  -   Fullstack internship (8 months);
+  -   Adminstrative assistant @ Yamana Inc.
 
 (For more info, feel free to visit my LinkedIn 😄)
  
