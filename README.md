@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Marcos, a 🇧🇷 brazilian junior developer looking for new experiencies.
+I'm Marcos, a 🇧🇷 Brazilian junior developer, excited to learn 📖 and find new people and experiencies 🌎.
 
 ![Follow](https://img.shields.io/github/followers/marcoslor?style=flat-square&label=Follow&logo=github)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-squar&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcos-p-rios/)
