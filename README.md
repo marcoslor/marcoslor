@@ -35,8 +35,8 @@ I'm Marcos, a 🇧🇷 Brazilian junior developer, excited to learn 📖 and fin
 - [100 Days of Swift](https://www.hackingwithswift.com/100/) from [HackingWithSwift.com](https://www.hackingwithswift.com)
 
 **Commited projects:**
- - [StormViwer](https://github.com/marcoslor/HackingWithSwift-Project01-StormViwer). 
-
+ - [StormViwer](https://github.com/marcoslor/HWS01-StormViwer). 
+ - [GuessTheFlag](https://github.com/marcoslor/HWS02-GuessTheFlag)
 ---------
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
