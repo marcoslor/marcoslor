@@ -28,21 +28,6 @@ I'm Marcos, a 🇧🇷 Brazilian developer, excited to learn 📖 and find new p
 
 (For more info, feel free to visit my [LinkedIn](www.linkedin.com/in/marcos-p-rios) 😄)
 
-## What am I actively learning at the moment?
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-
-**Guiding material:**
-- [100 Days of Swift](https://www.hackingwithswift.com/100/) from [HackingWithSwift.com](https://www.hackingwithswift.com)
-
-**Commited projects:**
- - [StormViwer](https://github.com/marcoslor/HWS01-StormViwer)
- - [GuessTheFlag](https://github.com/marcoslor/HWS02-GuessTheFlag)
----------
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-**Commited projects:**
-  - [HelloDjango](https://github.com/marcoslor/hellodjango).
-
 ## My other tech stack
 
 ### Frontend
