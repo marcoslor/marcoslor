@@ -10,7 +10,7 @@ I'm Marcos, a 🇧🇷 Brazilian developer, excited to learn 📖 and find new p
 - 😄  Pronouns: He/Him/They.
 - 🏛  My degrees:
   - Finished: Certification in I.T. 👨‍💻 from **Instituto Federal da Bahia**;
-  - Ongoing: Biology 🐛 major on **Universidade Federal de Sergipe**. 
+  - Ongoing: System development and analysis at Universidade Norte do Paraná. 
 - 💡  Carrer Interests:
   - 🌐  Backend developing;
   - 🔎  Data analysis;
@@ -19,7 +19,11 @@ I'm Marcos, a 🇧🇷 Brazilian developer, excited to learn 📖 and find new p
   - 🏕  Hicking;
   - 📸  Nature photographing.
 - 🧑‍💻 Work experiences:
-  -   Fullstack developer internship (8 months);
+-   -   Fullstack developer internship (MAR/2022 - NOW);
+      -   🏢 Where? Betabit Dev;
+      -   ℹ️ Job description: Implementing new features requested from clients, minor corrections, and fixing bugs in PHP project's back-ends and front-ends (mainly written in Vue.js and vanilla JS);
+      -   🧳 Acquired stack: Developing legacy PHP systems. 
+  -   Fullstack developer internship (JAN/2019 - SEP/2019) (8 months);
       -   🏢 Where? A local company;
       -   ℹ️ Job description: Designing simple landing webpages for the company's education project;
       -   🧳 Acquired stack: PHP developing with **Laravel. CSS. HTML.**
