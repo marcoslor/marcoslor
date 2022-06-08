@@ -22,7 +22,7 @@ I'm Marcos, a 🇧🇷 Brazilian developer, excited to learn 📖 and find new p
   - Fullstack developer internship (MAR/2022 - NOW);
     - 🏢 Where? Betabit Dev;
     - ℹ️ Job description: Implementing new features requested from clients, minor corrections, and fixing bugs in PHP project's back-ends (legacy PHP code and Laravel projects) and front-ends (mainly written in Vue.js and vanilla JS);
-    - 🧳 Acquired stack: Developing legacy PHP systems. 
+    - 🧳 Acquired stack: working with legacy PHP systems, Laravel and some JS. 
   - Fullstack developer internship (JAN/2019 - SEP/2019) (8 months);
     - 🏢 Where? A local company;
     - ℹ️ Job description: Designing simple landing webpages for the company's education project;
