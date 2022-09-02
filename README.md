@@ -19,10 +19,10 @@ I'm Marcos, a 🇧🇷 Brazilian developer, excited to learn 📖 and find new p
   - 🏕  Hicking;
   - 📸  Nature photographing.
 - 🧑‍💻 Work experiences:
-  - Jr. PHP Developer:
+  - Jr. PHP Developer (JUL/2022 - NOW): 
     - 🏢 Where? CI&T;
     - ℹ️: Started on a bootcamp to learn how to develop and contribute to Drupal CMS;
-  - Fullstack developer internship (MAR/2022 - NOW);
+  - Fullstack developer internship (MAR/2022 - JUN/2022);
     - 🏢 Where? Betabit Dev;
     - ℹ️ Job description: Implementing new features requested from clients, minor corrections, and fixing bugs in PHP project's back-ends (legacy PHP code and Laravel projects) and front-ends (mainly written in Vue.js and vanilla JS);
     - 🧳 Acquired stack: working with legacy PHP systems, Laravel and some JS. 
