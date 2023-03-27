@@ -12,7 +12,7 @@ I'm Marcos, a 🇧🇷 Brazilian developer, excited to learn 📖 and find new p
   - Finished: Certification in I.T. 👨‍💻 from **Instituto Federal da Bahia**;
   - Ongoing: System development and analysis at Universidade Norte do Paraná. 
 - 💡  Carrer Interests:
-  - 🌐  Backend developing;
+  - 🌐  Fullstack development;
   - 🔎  Data analysis;
   - 🧬  Bioinformatics.
 - 🍄  Hobbies:
